@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM mcr.microsoft.com/devcontainers/base:ubuntu-22.04
 
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en
